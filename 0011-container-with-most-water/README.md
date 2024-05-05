@@ -3,7 +3,7 @@
 <p>Find two lines that together with the x-axis form a container, such that the container contains the most water.</p>
 
 <p>Return <em>the maximum amount of water a container can store</em>.</p>
-
+ 
 <p><strong>Notice</strong> that you may not slant the container.</p>
 
 <p>&nbsp;</p>
